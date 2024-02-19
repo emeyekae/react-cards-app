@@ -1,0 +1,23 @@
+.drawButton{
+font-weight: bold;
+font-size:larger;
+height: 30px;
+display: flex;
+margin-left: auto;
+margin-right: auto;
+background:aqua;
+margin-bottom: 2px;
+}
+
+.shuffleButton{
+font-weight: bold;
+font-size:larger;
+height: 30px;
+display: flex;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+background:aqua;
+margin-bottom: 2px;
+}
+
